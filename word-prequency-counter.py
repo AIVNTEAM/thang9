@@ -17,3 +17,6 @@ def start(url):
 			wordlist.append(eword)
 start('https://dantri.com.vn/the-gioi.htm')
 # start('http://hdsieunhanh.com/filter/trang-1.html')
+
+def nothing():
+	pass
